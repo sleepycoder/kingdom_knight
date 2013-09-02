@@ -1,0 +1,1553 @@
+{
+	frames = {
+		"buffing_magic_small_0004.png" = {
+			spriteSize = "{30, 26}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{9, 9}, {30, 26}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{402, 350}, {30, 26}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0015.png" = {
+			spriteSize = "{40, 34}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{4, 4}, {40, 34}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{62, 314}, {40, 34}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"UnderwaterParticle.png" = {
+			spriteSize = "{8, 4}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{0, 0}, {8, 4}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{324, 120}, {8, 4}}";
+			textureRotated = NO;
+			spriteSourceSize = "{8, 4}";
+		};
+		"portraits_sc_0053.png" = {
+			spriteSize = "{54, 48}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{11, 16}, {54, 48}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{406, 182}, {54, 48}}";
+			textureRotated = NO;
+			spriteSourceSize = "{76, 76}";
+		};
+		"healing_aura_0033.png" = {
+			spriteSize = "{30, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{12, 9}, {30, 24}}";
+			spriteOffset = "{3, -1}";
+			textureRect = "{{466, 420}, {30, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0014.png" = {
+			spriteSize = "{36, 28}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{6, 4}, {36, 28}}";
+			spriteOffset = "{0, 2}";
+			textureRect = "{{284, 298}, {28, 36}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0019.png" = {
+			spriteSize = "{18, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 13}, {18, 14}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{498, 38}, {14, 18}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0013.png" = {
+			spriteSize = "{18, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 17}, {18, 14}}";
+			spriteOffset = "{0, -4}";
+			textureRect = "{{398, 474}, {14, 18}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0009.png" = {
+			spriteSize = "{18, 18}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 12}, {18, 18}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{432, 466}, {18, 18}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0003.png" = {
+			spriteSize = "{18, 18}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 12}, {18, 18}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{432, 486}, {18, 18}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0043.png" = {
+			spriteSize = "{46, 40}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{17, 25}, {46, 40}}";
+			spriteOffset = "{2, -7}";
+			textureRect = "{{62, 350}, {40, 46}}";
+			textureRotated = YES;
+			spriteSourceSize = "{76, 76}";
+		};
+		"buffing_armor_small_0006.png" = {
+			spriteSize = "{30, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{9, 8}, {30, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{340, 418}, {24, 30}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0010.png" = {
+			spriteSize = "{32, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{8, 8}, {32, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{432, 420}, {32, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0023.png" = {
+			spriteSize = "{30, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{9, 19}, {30, 14}}";
+			spriteOffset = "{0, -6}";
+			textureRect = "{{414, 454}, {14, 30}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0017.png" = {
+			spriteSize = "{38, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{6, 8}, {38, 24}}";
+			spriteOffset = "{1, -0}";
+			textureRect = "{{234, 334}, {38, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0004.png" = {
+			spriteSize = "{36, 28}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{8, 6}, {36, 28}}";
+			spriteOffset = "{2, -0}";
+			textureRect = "{{284, 430}, {28, 36}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0068.png" = {
+			spriteSize = "{56, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {56, 56}}";
+			spriteOffset = "{0, 1}";
+			textureRect = "{{324, 62}, {56, 56}}";
+			textureRotated = NO;
+			spriteSourceSize = "{76, 76}";
+		};
+		"buffing_magic_small_0001.png" = {
+			spriteSize = "{22, 20}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{13, 12}, {22, 20}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{390, 298}, {20, 22}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0008.png" = {
+			spriteSize = "{34, 30}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{7, 7}, {34, 30}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{366, 432}, {30, 34}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0012.png" = {
+			spriteSize = "{38, 32}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{5, 5}, {38, 32}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{234, 466}, {32, 38}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0019.png" = {
+			spriteSize = "{44, 38}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{2, 2}, {44, 38}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{234, 294}, {44, 38}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0029.png" = {
+			spriteSize = "{34, 22}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{7, 11}, {34, 22}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{490, 236}, {22, 34}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0049.png" = {
+			spriteSize = "{52, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {52, 56}}";
+			spriteOffset = "{-2, 1}";
+			textureRect = "{{368, 128}, {56, 52}}";
+			textureRotated = YES;
+			spriteSourceSize = "{76, 76}";
+		};
+		"portraits_sc_0052.png" = {
+			spriteSize = "{48, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {48, 56}}";
+			spriteOffset = "{-4, 1}";
+			textureRect = "{{234, 236}, {48, 56}}";
+			textureRotated = NO;
+			spriteSourceSize = "{76, 76}";
+		};
+		"healing_aura_0032.png" = {
+			spriteSize = "{30, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{12, 9}, {30, 24}}";
+			spriteOffset = "{3, -1}";
+			textureRect = "{{314, 360}, {24, 30}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0013.png" = {
+			spriteSize = "{34, 26}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{6, 4}, {34, 26}}";
+			spriteOffset = "{-1, 3}";
+			textureRect = "{{434, 350}, {34, 26}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"SavageBird_0049.png" = {
+			spriteSize = "{68, 56}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0050.png",
+			);
+			spriteColorRect = "{{17, 36}, {68, 56}}";
+			spriteOffset = "{3, 2}";
+			textureRect = "{{106, 206}, {68, 56}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0043.png" = {
+			spriteSize = "{60, 54}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0044.png",
+			);
+			spriteColorRect = "{{21, 38}, {60, 54}}";
+			spriteOffset = "{3, 1}";
+			textureRect = "{{0, 252}, {60, 54}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0039.png" = {
+			spriteSize = "{64, 80}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0040.png",
+			);
+			spriteColorRect = "{{17, 7}, {64, 80}}";
+			spriteOffset = "{1, 19}";
+			textureRect = "{{106, 62}, {80, 64}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0019.png" = {
+			spriteSize = "{80, 42}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0020.png",
+			);
+			spriteColorRect = "{{9, 40}, {80, 42}}";
+			spriteOffset = "{1, 5}";
+			textureRect = "{{62, 144}, {42, 80}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0013.png" = {
+			spriteSize = "{52, 78}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0014.png",
+			);
+			spriteColorRect = "{{23, 9}, {52, 78}}";
+			spriteOffset = "{1, 18}";
+			textureRect = "{{434, 62}, {78, 52}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"buff_magic_0022.png" = {
+			spriteSize = "{14, 12}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{20, 14}, {14, 12}}";
+			spriteOffset = "{3, -0}";
+			textureRect = "{{462, 222}, {14, 12}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0018.png" = {
+			spriteSize = "{18, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 13}, {18, 14}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{414, 486}, {14, 18}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0012.png" = {
+			spriteSize = "{18, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 18}, {18, 14}}";
+			spriteOffset = "{0, -5}";
+			textureRect = "{{452, 298}, {14, 18}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"SavageBird_0033.png" = {
+			spriteSize = "{80, 42}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0034.png",
+			);
+			spriteColorRect = "{{9, 39}, {80, 42}}";
+			spriteOffset = "{1, 6}";
+			textureRect = "{{62, 62}, {42, 80}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0009.png" = {
+			spriteSize = "{62, 60}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0010.png",
+			);
+			spriteColorRect = "{{12, 26}, {62, 60}}";
+			spriteOffset = "{-5, 10}";
+			textureRect = "{{0, 362}, {60, 62}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"buffing_armor_small_0003.png" = {
+			spriteSize = "{28, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 8}, {28, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{340, 484}, {24, 28}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"SavageBird_0003.png" = {
+			spriteSize = "{54, 58}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0004.png",
+			);
+			spriteColorRect = "{{24, 39}, {54, 58}}";
+			spriteOffset = "{3, -2}";
+			textureRect = "{{414, 0}, {54, 58}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"healing_aura_0019.png" = {
+			spriteSize = "{32, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{11, 7}, {32, 24}}";
+			spriteOffset = "{3, 1}";
+			textureRect = "{{322, 272}, {32, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0002.png" = {
+			spriteSize = "{18, 18}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 13}, {18, 18}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{314, 494}, {18, 18}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0022.png" = {
+			spriteSize = "{34, 26}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 6}, {34, 26}}";
+			spriteOffset = "{3, 1}";
+			textureRect = "{{468, 322}, {34, 26}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0008.png" = {
+			spriteSize = "{18, 18}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 12}, {18, 18}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{432, 446}, {18, 18}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"SavageBird_0053.png" = {
+			spriteSize = "{20, 38}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0054.png",
+			);
+			spriteColorRect = "{{39, 43}, {20, 38}}";
+			spriteOffset = "{1, 4}";
+			textureRect = "{{234, 412}, {38, 20}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"buffing_magic_small_0005.png" = {
+			spriteSize = "{30, 26}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{9, 9}, {30, 26}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{410, 322}, {30, 26}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0003.png" = {
+			spriteSize = "{34, 28}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{9, 7}, {34, 28}}";
+			spriteOffset = "{2, -1}";
+			textureRect = "{{324, 236}, {28, 34}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0020.png" = {
+			spriteSize = "{46, 38}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{1, 2}, {46, 38}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{176, 466}, {38, 46}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"SavageBird_0029.png" = {
+			spriteSize = "{60, 56}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0030.png",
+			);
+			spriteColorRect = "{{19, 38}, {60, 56}}";
+			spriteOffset = "{1, -0}";
+			textureRect = "{{0, 90}, {60, 56}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0023.png" = {
+			spriteSize = "{68, 76}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0024.png",
+			);
+			spriteColorRect = "{{15, 10}, {68, 76}}";
+			spriteOffset = "{1, 18}";
+			textureRect = "{{106, 128}, {68, 76}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"buffing_armor_small_0014.png" = {
+			spriteSize = "{36, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{7, 8}, {36, 24}}";
+			spriteOffset = "{1, -0}";
+			textureRect = "{{314, 322}, {24, 36}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0016.png" = {
+			spriteSize = "{42, 36}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{3, 4}, {42, 36}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{62, 226}, {42, 36}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0042.png" = {
+			spriteSize = "{56, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {56, 56}}";
+			spriteOffset = "{0, 1}";
+			textureRect = "{{176, 356}, {56, 56}}";
+			textureRotated = NO;
+			spriteSourceSize = "{76, 76}";
+		};
+		"healing_aura_0028.png" = {
+			spriteSize = "{34, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{7, 19}, {34, 14}}";
+			spriteOffset = "{0, -6}";
+			textureRect = "{{398, 378}, {34, 14}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0048.png" = {
+			spriteSize = "{52, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {52, 56}}";
+			spriteOffset = "{-2, 1}";
+			textureRect = "{{310, 128}, {56, 52}}";
+			textureRotated = YES;
+			spriteSourceSize = "{76, 76}";
+		};
+		"portraits_sc_0067.png" = {
+			spriteSize = "{54, 52}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 12}, {54, 52}}";
+			spriteOffset = "{-1, -0}";
+			textureRect = "{{426, 128}, {54, 52}}";
+			textureRotated = NO;
+			spriteSourceSize = "{76, 76}";
+		};
+		"healing_aura_0009.png" = {
+			spriteSize = "{32, 16}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{7, 5}, {32, 16}}";
+			spriteOffset = "{-1, 7}";
+			textureRect = "{{398, 420}, {16, 32}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0051.png" = {
+			spriteSize = "{56, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {56, 56}}";
+			spriteOffset = "{0, 1}";
+			textureRect = "{{106, 400}, {56, 56}}";
+			textureRotated = NO;
+			spriteSourceSize = "{76, 76}";
+		};
+		"healing_aura_0031.png" = {
+			spriteSize = "{36, 22}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{6, 10}, {36, 22}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{352, 298}, {36, 22}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0012.png" = {
+			spriteSize = "{34, 26}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{6, 5}, {34, 26}}";
+			spriteOffset = "{-1, 2}";
+			textureRect = "{{354, 236}, {26, 34}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0037.png" = {
+			spriteSize = "{34, 26}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 8}, {34, 26}}";
+			spriteOffset = "{3, -1}";
+			textureRect = "{{366, 350}, {34, 26}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0007.png" = {
+			spriteSize = "{30, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{9, 8}, {30, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{340, 386}, {24, 30}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0011.png" = {
+			spriteSize = "{34, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{8, 8}, {34, 24}}";
+			spriteOffset = "{1, -0}";
+			textureRect = "{{382, 236}, {24, 34}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0021.png" = {
+			spriteSize = "{18, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 11}, {18, 14}}";
+			spriteOffset = "{0, 2}";
+			textureRect = "{{398, 454}, {14, 18}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0018.png" = {
+			spriteSize = "{38, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{5, 8}, {38, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{234, 360}, {38, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0018.png" = {
+			spriteSize = "{32, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{11, 7}, {32, 24}}";
+			spriteOffset = "{3, 1}";
+			textureRect = "{{314, 460}, {24, 32}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0017.png" = {
+			spriteSize = "{18, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 14}, {18, 14}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{488, 378}, {18, 14}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0011.png" = {
+			spriteSize = "{18, 10}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 18}, {18, 10}}";
+			spriteOffset = "{0, -3}";
+			textureRect = "{{434, 116}, {18, 10}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0002.png" = {
+			spriteSize = "{26, 22}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{11, 11}, {26, 22}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{470, 38}, {26, 22}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0007.png" = {
+			spriteSize = "{18, 18}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 13}, {18, 18}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{484, 298}, {18, 18}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0001.png" = {
+			spriteSize = "{18, 18}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 13}, {18, 18}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{452, 446}, {18, 18}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0009.png" = {
+			spriteSize = "{34, 30}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{7, 7}, {34, 30}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{366, 378}, {30, 34}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0021.png" = {
+			spriteSize = "{34, 26}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 6}, {34, 26}}";
+			spriteOffset = "{3, 1}";
+			textureRect = "{{408, 236}, {26, 34}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0013.png" = {
+			spriteSize = "{38, 34}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{5, 5}, {38, 34}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{284, 236}, {38, 34}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0002.png" = {
+			spriteSize = "{34, 28}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{9, 7}, {34, 28}}";
+			spriteOffset = "{2, -1}";
+			textureRect = "{{0, 484}, {34, 28}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0038.png" = {
+			spriteSize = "{54, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {54, 56}}";
+			spriteOffset = "{-1, 1}";
+			textureRect = "{{106, 458}, {56, 54}}";
+			textureRotated = YES;
+			spriteSourceSize = "{76, 76}";
+		};
+		"portraits_sc_0041.png" = {
+			spriteSize = "{56, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {56, 56}}";
+			spriteOffset = "{0, 1}";
+			textureRect = "{{176, 298}, {56, 56}}";
+			textureRotated = NO;
+			spriteSourceSize = "{76, 76}";
+		};
+		"portraits_sc_0047.png" = {
+			spriteSize = "{52, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {52, 56}}";
+			spriteOffset = "{-2, 1}";
+			textureRect = "{{252, 128}, {56, 52}}";
+			textureRotated = YES;
+			spriteSourceSize = "{76, 76}";
+		};
+		"healing_aura_0027.png" = {
+			spriteSize = "{32, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{7, 19}, {32, 14}}";
+			spriteOffset = "{-1, -6}";
+			textureRect = "{{434, 378}, {32, 14}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0008.png" = {
+			spriteSize = "{32, 16}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{7, 5}, {32, 16}}";
+			spriteOffset = "{-1, 7}";
+			textureRect = "{{216, 466}, {16, 32}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0050.png" = {
+			spriteSize = "{56, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {56, 56}}";
+			spriteOffset = "{0, 1}";
+			textureRect = "{{176, 182}, {56, 56}}";
+			textureRotated = NO;
+			spriteSourceSize = "{76, 76}";
+		};
+		"healing_aura_0030.png" = {
+			spriteSize = "{36, 22}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{6, 10}, {36, 22}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{314, 298}, {36, 22}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0011.png" = {
+			spriteSize = "{34, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{6, 5}, {34, 24}}";
+			spriteOffset = "{-1, 3}";
+			textureRect = "{{340, 350}, {24, 34}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0004.png" = {
+			spriteSize = "{28, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 8}, {28, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{284, 370}, {28, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0056.png" = {
+			spriteSize = "{48, 54}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 10}, {48, 54}}";
+			spriteOffset = "{-4, 1}";
+			textureRect = "{{350, 182}, {54, 48}}";
+			textureRotated = YES;
+			spriteSourceSize = "{76, 76}";
+		};
+		"buffing_armor_small_0015.png" = {
+			spriteSize = "{36, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{6, 8}, {36, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{284, 272}, {36, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0036.png" = {
+			spriteSize = "{34, 26}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 8}, {34, 26}}";
+			spriteOffset = "{3, -1}";
+			textureRect = "{{340, 322}, {34, 26}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"SavageBird_0047.png" = {
+			spriteSize = "{68, 56}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0048.png",
+			);
+			spriteColorRect = "{{17, 36}, {68, 56}}";
+			spriteOffset = "{3, 2}";
+			textureRect = "{{106, 264}, {68, 56}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0041.png" = {
+			spriteSize = "{72, 58}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0042.png",
+			);
+			spriteColorRect = "{{13, 26}, {72, 58}}";
+			spriteOffset = "{1, 11}";
+			textureRect = "{{340, 0}, {72, 58}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0037.png" = {
+			spriteSize = "{68, 76}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0038.png",
+			);
+			spriteColorRect = "{{15, 10}, {68, 76}}";
+			spriteOffset = "{1, 18}";
+			textureRect = "{{106, 322}, {68, 76}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0017.png" = {
+			spriteSize = "{56, 58}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0018.png",
+			);
+			spriteColorRect = "{{21, 38}, {56, 58}}";
+			spriteOffset = "{1, -1}";
+			textureRect = "{{152, 0}, {56, 58}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0011.png" = {
+			spriteSize = "{52, 74}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0012.png",
+			);
+			spriteColorRect = "{{22, 12}, {52, 74}}";
+			spriteOffset = "{0, 17}";
+			textureRect = "{{176, 128}, {74, 52}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"buff_magic_0020.png" = {
+			spriteSize = "{18, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 12}, {18, 14}}";
+			spriteOffset = "{0, 1}";
+			textureRect = "{{468, 378}, {18, 14}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0010.png" = {
+			spriteSize = "{36, 30}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{6, 6}, {36, 30}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{482, 144}, {30, 36}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0017.png" = {
+			spriteSize = "{42, 36}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{3, 3}, {42, 36}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{470, 0}, {42, 36}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0010.png" = {
+			spriteSize = "{18, 18}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 11}, {18, 18}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{472, 446}, {18, 18}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0016.png" = {
+			spriteSize = "{18, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 15}, {18, 14}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{496, 350}, {14, 18}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0020.png" = {
+			spriteSize = "{32, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{11, 7}, {32, 24}}";
+			spriteOffset = "{3, 1}";
+			textureRect = "{{394, 272}, {32, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0021.png" = {
+			spriteSize = "{46, 38}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{1, 2}, {46, 38}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{462, 182}, {46, 38}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"SavageBird_0031.png" = {
+			spriteSize = "{56, 58}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0032.png",
+			);
+			spriteColorRect = "{{21, 37}, {56, 58}}";
+			spriteOffset = "{1, -0}";
+			textureRect = "{{0, 426}, {58, 56}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0007.png" = {
+			spriteSize = "{60, 44}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0008.png",
+			);
+			spriteColorRect = "{{16, 40}, {60, 44}}";
+			spriteOffset = "{-2, 4}";
+			textureRect = "{{0, 148}, {60, 44}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0001.png" = {
+			spriteSize = "{54, 58}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0002.png",
+			);
+			spriteColorRect = "{{20, 27}, {54, 58}}";
+			spriteOffset = "{-1, 10}";
+			textureRect = "{{284, 0}, {54, 58}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"healing_aura_0017.png" = {
+			spriteSize = "{30, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{12, 7}, {30, 24}}";
+			spriteOffset = "{3, 1}";
+			textureRect = "{{458, 272}, {30, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0006.png" = {
+			spriteSize = "{18, 18}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 14}, {18, 18}}";
+			spriteOffset = "{0, -3}";
+			textureRect = "{{432, 298}, {18, 18}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"SavageBird_0051.png" = {
+			spriteSize = "{30, 38}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0052.png",
+			);
+			spriteColorRect = "{{38, 44}, {30, 38}}";
+			spriteOffset = "{5, 3}";
+			textureRect = "{{234, 434}, {38, 30}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0027.png" = {
+			spriteSize = "{72, 58}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0028.png",
+			);
+			spriteColorRect = "{{13, 26}, {72, 58}}";
+			spriteOffset = "{1, 11}";
+			textureRect = "{{210, 0}, {72, 58}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"buffing_magic_small_0006.png" = {
+			spriteSize = "{32, 28}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{8, 8}, {32, 28}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{284, 336}, {28, 32}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"SavageBird_0021.png" = {
+			spriteSize = "{88, 60}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0022.png",
+			);
+			spriteColorRect = "{{5, 24}, {88, 60}}";
+			spriteOffset = "{1, 12}";
+			textureRect = "{{0, 0}, {60, 88}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"healing_aura_0026.png" = {
+			spriteSize = "{32, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{8, 19}, {32, 14}}";
+			spriteOffset = "{0, -6}";
+			textureRect = "{{268, 466}, {14, 32}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0001.png" = {
+			spriteSize = "{34, 26}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 8}, {34, 26}}";
+			spriteOffset = "{3, -1}";
+			textureRect = "{{462, 236}, {26, 34}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0037.png" = {
+			spriteSize = "{50, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {50, 56}}";
+			spriteOffset = "{-3, 1}";
+			textureRect = "{{176, 414}, {56, 50}}";
+			textureRotated = YES;
+			spriteSourceSize = "{76, 76}";
+		};
+		"portraits_sc_0046.png" = {
+			spriteSize = "{52, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {52, 56}}";
+			spriteOffset = "{-2, 1}";
+			textureRect = "{{234, 182}, {56, 52}}";
+			textureRotated = YES;
+			spriteSourceSize = "{76, 76}";
+		};
+		"healing_aura_0007.png" = {
+			spriteSize = "{30, 16}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{7, 6}, {30, 16}}";
+			spriteOffset = "{-2, 6}";
+			textureRect = "{{366, 414}, {30, 16}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0001.png" = {
+			spriteSize = "{26, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{12, 8}, {26, 24}}";
+			spriteOffset = "{1, -0}";
+			textureRect = "{{470, 350}, {24, 26}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0010.png" = {
+			spriteSize = "{32, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{7, 5}, {32, 24}}";
+			spriteOffset = "{-1, 3}";
+			textureRect = "{{340, 450}, {24, 32}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0008.png" = {
+			spriteSize = "{32, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{9, 8}, {32, 24}}";
+			spriteOffset = "{1, -0}";
+			textureRect = "{{434, 394}, {32, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0012.png" = {
+			spriteSize = "{34, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{7, 8}, {34, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{436, 236}, {24, 34}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0019.png" = {
+			spriteSize = "{38, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{5, 8}, {38, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{234, 386}, {38, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0035.png" = {
+			spriteSize = "{32, 26}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{11, 8}, {32, 26}}";
+			spriteOffset = "{3, -1}";
+			textureRect = "{{376, 322}, {32, 26}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0003.png" = {
+			spriteSize = "{28, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 10}, {28, 24}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{36, 484}, {24, 28}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0014.png" = {
+			spriteSize = "{40, 34}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{4, 5}, {40, 34}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{62, 398}, {40, 34}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0016.png" = {
+			spriteSize = "{30, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{13, 7}, {30, 24}}";
+			spriteOffset = "{4, 1}";
+			textureRect = "{{366, 486}, {30, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0015.png" = {
+			spriteSize = "{18, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 15}, {18, 14}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{468, 298}, {14, 18}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0005.png" = {
+			spriteSize = "{12, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 15}, {12, 14}}";
+			spriteOffset = "{-3, -2}";
+			textureRect = "{{216, 500}, {14, 12}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_armor.png" = {
+			spriteSize = "{24, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{12, 22}, {24, 14}}";
+			spriteOffset = "{0, -9}";
+			textureRect = "{{490, 272}, {14, 24}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0045.png" = {
+			spriteSize = "{50, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {50, 56}}";
+			spriteOffset = "{-3, 1}";
+			textureRect = "{{382, 62}, {50, 56}}";
+			textureRotated = NO;
+			spriteSourceSize = "{76, 76}";
+		};
+		"healing_aura_0025.png" = {
+			spriteSize = "{32, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{8, 19}, {32, 14}}";
+			spriteOffset = "{0, -6}";
+			textureRect = "{{416, 420}, {14, 32}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0006.png" = {
+			spriteSize = "{30, 16}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{8, 6}, {30, 16}}";
+			spriteOffset = "{-1, 6}";
+			textureRect = "{{366, 468}, {30, 16}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0005.png" = {
+			spriteSize = "{30, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 8}, {30, 24}}";
+			spriteOffset = "{1, -0}";
+			textureRect = "{{468, 394}, {30, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0016.png" = {
+			spriteSize = "{36, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{6, 8}, {36, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{356, 272}, {36, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0007.png" = {
+			spriteSize = "{32, 28}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{8, 8}, {32, 28}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{284, 396}, {28, 32}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0011.png" = {
+			spriteSize = "{38, 32}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{5, 6}, {38, 32}}";
+			spriteOffset = "{0, -2}";
+			textureRect = "{{62, 434}, {38, 32}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0018.png" = {
+			spriteSize = "{44, 38}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{2, 2}, {44, 38}}";
+			spriteOffset = "{0, -1}";
+			textureRect = "{{62, 468}, {38, 44}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_magic_small_0022.png" = {
+			spriteSize = "{48, 40}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{0, 0}, {48, 40}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{62, 264}, {40, 48}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0034.png" = {
+			spriteSize = "{32, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{11, 9}, {32, 24}}";
+			spriteOffset = "{3, -1}";
+			textureRect = "{{314, 426}, {24, 32}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0054.png" = {
+			spriteSize = "{56, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {56, 56}}";
+			spriteOffset = "{0, 1}";
+			textureRect = "{{176, 240}, {56, 56}}";
+			textureRotated = NO;
+			spriteSourceSize = "{76, 76}";
+		};
+		"healing_aura_0015.png" = {
+			spriteSize = "{28, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{13, 7}, {28, 24}}";
+			spriteOffset = "{3, 1}";
+			textureRect = "{{428, 272}, {28, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"SavageBird_0045.png" = {
+			spriteSize = "{64, 52}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0046.png",
+			);
+			spriteColorRect = "{{19, 38}, {64, 52}}";
+			spriteOffset = "{3, 2}";
+			textureRect = "{{188, 62}, {52, 64}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0035.png" = {
+			spriteSize = "{88, 60}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0036.png",
+			);
+			spriteColorRect = "{{5, 24}, {88, 60}}";
+			spriteOffset = "{1, 12}";
+			textureRect = "{{62, 0}, {88, 60}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0025.png" = {
+			spriteSize = "{64, 80}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0026.png",
+			);
+			spriteColorRect = "{{17, 7}, {64, 80}}";
+			spriteOffset = "{1, 19}";
+			textureRect = "{{242, 62}, {80, 64}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0015.png" = {
+			spriteSize = "{60, 56}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0016.png",
+			);
+			spriteColorRect = "{{19, 39}, {60, 56}}";
+			spriteOffset = "{1, -1}";
+			textureRect = "{{0, 194}, {60, 56}}";
+			textureRotated = NO;
+			spriteSourceSize = "{96, 132}";
+		};
+		"SavageBird_0005.png" = {
+			spriteSize = "{52, 60}";
+			spriteTrimmed = YES;
+			aliases = (
+				"SavageBird_0006.png",
+			);
+			spriteColorRect = "{{24, 38}, {52, 60}}";
+			spriteOffset = "{2, -2}";
+			textureRect = "{{0, 308}, {60, 52}}";
+			textureRotated = YES;
+			spriteSourceSize = "{96, 132}";
+		};
+		"buff_magic_0014.png" = {
+			spriteSize = "{18, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 16}, {18, 14}}";
+			spriteOffset = "{0, -3}";
+			textureRect = "{{398, 494}, {14, 18}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buff_magic_0004.png" = {
+			spriteSize = "{18, 18}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{15, 11}, {18, 18}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{412, 298}, {18, 18}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"portraits_sc_0044.png" = {
+			spriteSize = "{50, 56}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{10, 9}, {50, 56}}";
+			spriteOffset = "{-3, 1}";
+			textureRect = "{{292, 182}, {56, 50}}";
+			textureRotated = YES;
+			spriteSourceSize = "{76, 76}";
+		};
+		"healing_aura_0024.png" = {
+			spriteSize = "{30, 14}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{8, 19}, {30, 14}}";
+			spriteOffset = "{-1, -6}";
+			textureRect = "{{482, 128}, {30, 14}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0002.png" = {
+			spriteSize = "{26, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{11, 8}, {26, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{442, 322}, {24, 26}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0009.png" = {
+			spriteSize = "{32, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{8, 8}, {32, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{314, 392}, {24, 32}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+		"buffing_armor_small_0013.png" = {
+			spriteSize = "{34, 24}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{7, 8}, {34, 24}}";
+			spriteOffset = "{0, -0}";
+			textureRect = "{{398, 394}, {34, 24}}";
+			textureRotated = NO;
+			spriteSourceSize = "{48, 40}";
+		};
+		"healing_aura_0005.png" = {
+			spriteSize = "{36, 28}";
+			spriteTrimmed = YES;
+			aliases = ();
+			spriteColorRect = "{{8, 6}, {36, 28}}";
+			spriteOffset = "{2, -0}";
+			textureRect = "{{284, 468}, {28, 36}}";
+			textureRotated = YES;
+			spriteSourceSize = "{48, 40}";
+		};
+	};
+	metadata = {
+		premultipliedAlpha = NO;
+		size = "{512, 512}";
+		version = "1.5.8";
+		name = "enemies_jungle_2-HD.zwd";
+		target = {
+			textureFileExtension = ".png";
+			coordinatesFileName = "enemies_jungle_2-hd";
+			textureFileName = "enemies_jungle_2-hd";
+			"coordinatesFileExtension" = ".plist";
+			name = default;
+			premultipliedAlpha = NO;
+		};
+		format = 3;
+	};
+}
